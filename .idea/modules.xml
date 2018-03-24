@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IndiaFrame.iml" filepath="$PROJECT_DIR$/IndiaFrame.iml" />
+      <module fileurl="file://D:\IndiaFrame-master\IndiaFrame-master\IndiaFrame.iml" filepath="D:\IndiaFrame-master\IndiaFrame-master\IndiaFrame.iml" />
+      <module fileurl="file://D:\IndiaFrame\IndiaFrame-master.iml" filepath="D:\IndiaFrame\IndiaFrame-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
