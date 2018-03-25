@@ -209,7 +209,7 @@ public class ProfileActivity extends AppCompatActivity
                 startActivity(i);
                 break;
             case R.id.nav_camera:
-                Intent i1 = new Intent(ProfileActivity.this, MainActivity.class);
+                Intent i1 = new Intent(ProfileActivity.this, UrbanH.class);
                 startActivity(i1);
                 break;
         }
@@ -280,6 +280,8 @@ public class ProfileActivity extends AppCompatActivity
 //        if (id == R.id.nav_camera) {
 //            // Handle the camera action
 //        } else if (id == R.id.nav_gallery) {
+
+
 //
 //        } else if (id == R.id.nav_slideshow) {
 //
