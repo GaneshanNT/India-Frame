@@ -212,6 +212,11 @@ public class ProfileActivity extends AppCompatActivity
                 Intent i1 = new Intent(ProfileActivity.this, UrbanH.class);
                 startActivity(i1);
                 break;
+            case R.id.nav_gallery:
+                Intent i2 = new Intent(ProfileActivity.this, MainActivit.class);
+                startActivity(i2);
+                break;
+
         }
         return true;   //change here
     }
